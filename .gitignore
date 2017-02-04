@@ -14,6 +14,7 @@
 *.o
 *.srt
 *.sct
+*.lst
 
 
 # Windows image file caches
