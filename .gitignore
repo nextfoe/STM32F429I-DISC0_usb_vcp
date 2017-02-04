@@ -13,6 +13,7 @@
 *.map
 *.o
 *.srt
+*.sct
 
 
 # Windows image file caches
